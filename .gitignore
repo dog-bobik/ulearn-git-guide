@@ -7,6 +7,7 @@
 
 # Коллекция полезных .gitignore от GitHub: https://github.com/github/gitignore
 
+secrets.txt
 
 # Игнорируем файлы с определенным именем в текущем каталоге и его подкаталогах
 access.log
